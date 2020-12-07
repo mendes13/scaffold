@@ -7,4 +7,9 @@ TODOs:
 - openssh
 - pcman
 - alsamixer-utils
+- bluez & systemctl enable bluetooth.service
+- sudo pacman -S blueman
+- noto-fonts & noto-fonts-cjk & noto-fonts-emoji
+- docker-compose
+- kubectl + kubecfg + kind + tilt
 - ...
